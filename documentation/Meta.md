@@ -8,5 +8,15 @@
 }
 ```
 
+```thegardener
+{
+  "scenarios" : 
+     {
+        "feature": "features/first_test.feature",
+        "select": { "tags" : ["@first_shot"]  }
+     }
+}
+```
+
 ### Do I even know what I am doing
 - Answer: no
