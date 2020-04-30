@@ -12,7 +12,7 @@
 {
   "scenarios" : 
      {
-        "feature": "first_test.feature",
+        "feature": "/first_test.feature",
         "select": { "tags" : ["@first_shot"]  }
      }
 }
