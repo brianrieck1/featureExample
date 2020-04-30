@@ -1,0 +1,12 @@
+{
+  "directory" :
+  {
+    "label": "featureExample",
+    "description": "I have no idea what I am doing",
+    "pages": [
+      "Meta"
+    ],
+    "children": [
+    ]
+  }
+}
