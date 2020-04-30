@@ -29,3 +29,15 @@
 
 ### The final countdown
 - HERE GOES NOTHING
+
+```thegardener
+{
+  "scenarios" : 
+     {
+        "feature": "/documentation/page/show_a_page_with_variables.feature"
+     }
+}
+```
+
+### the last one worked, will this
+- stay tuned to find out
