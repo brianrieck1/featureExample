@@ -34,7 +34,7 @@
 {
   "scenarios" : 
      {
-        "feature": "/documentation/page/show_a_page_with_variables.feature",
+        "feature": "/documentation/page/show_a_page.feature",
         "select": { "tags" : ["@nominal_case"]  }
      }
 }
