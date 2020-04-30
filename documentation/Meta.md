@@ -34,10 +34,12 @@
 {
   "scenarios" : 
      {
-        "feature": "/documentation/page/show_a_page_with_variables.feature"
+        "feature": "/documentation/page/show_a_page_with_variables.feature",
+        "select": { "tags" : ["@nominal_case"]  }
      }
 }
 ```
 
 ### the last one worked, will this
 - stay tuned to find out
+- thats a no
